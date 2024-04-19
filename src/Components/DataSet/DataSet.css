@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid black;
+  }
+
+  table {
+    width: 70%;
+    margin: 25px 75px 75px 120px;
+  }
+  
+  th {
+    height: 70px;
+  }
+
+  .stats_drop{
+     margin-top: 50px;
+  
+  }
+  .caption-table{
+    margin-bottom: 10px;
+    font-size: medium;
+    font-weight: bold;
+  }
